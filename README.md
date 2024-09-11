@@ -97,6 +97,7 @@ if __name__ == "__main__":
 ```    
 
 <h3>OUTPUT</h3>
+![Screenshot 2024-09-11 091705](https://github.com/user-attachments/assets/40ec6158-1261-4cf3-bd8d-d326cdb269d0)
 
 
 <h3>RESULT</h3>
